@@ -3,7 +3,7 @@ name = "SigmaOS-arch-mipmapping-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-mipmapping-kernel component"
+description = "SigmaOS SigmaOS-arch-mipmapping-kernel component"
 upstream = []
 
 [contract]
